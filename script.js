@@ -1,0 +1,1 @@
+var ball = createSprite(200,100)
