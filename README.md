@@ -2,7 +2,7 @@
 
 ### Have fun
 
-Play the game : https://tchitchipa.github.io/brick-breaker/
+Play the game : https://mcourbon.github.io/brick-breaker/
 -> Mouse/Keyboard
 
 ### Built with
